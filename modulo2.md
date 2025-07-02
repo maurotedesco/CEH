@@ -1,7 +1,7 @@
 markdown
 # Modulo 2: Footprinting and Reconnaissance (CEHv13)
 
-Ecco un elenco dettagliato di siti web e strumenti chiave utilizzati per le attività di footprinting e reconnaissance. Ricorda che l'obiettivo è raccogliere informazioni sul bersaglio in modo **passivo** (senza interazione diretta) o **semi-passivo** (interazione minima e difficile da tracciare).
+Elenco dettagliato di siti web e strumenti chiave utilizzati per le attività di footprinting e reconnaissance. L'obiettivo è raccogliere informazioni sul bersaglio in modo **passivo** (senza interazione diretta) o **semi-passivo** (interazione minima e difficile da tracciare).
 
 ## 1. Motori di Ricerca Generici (Informazioni Pubbliche & Google Dorking)
 
